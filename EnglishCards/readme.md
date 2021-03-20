@@ -17,3 +17,7 @@ asking him to pronounce the word that was printed on the card.
 I got this idea that I can use my nice hand-held scanner device I had, scan those cards,
 and come up with a digital memory card. I also thought of this idea of letting the kids spell in a timeframe,
 and that would make him remember the spelling and also let him play on its own.
+
+## Installation
+Click the 'Code' button and download as a zip file.
+Extract the files into folder and make sure the .exe and .ini files are side by side along with the images folder.
