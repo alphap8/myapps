@@ -19,5 +19,5 @@ and come up with a digital memory card. I also thought of this idea of letting t
 and that would make him remember the spelling and also let him play on its own.
 
 ## Installation
-Click the 'Code' button and download as a zip file.
-Extract the files into folder and make sure the .exe and .ini files are side by side along with the images folder.
+Click here to download the [release.zip](https://github.com/alphap8/myapps/raw/main/EnglishCards/Release.zip) file.
+After downloading, extract the files into some folder and make sure the .exe and .ini files are side by side along with the images folder.
